@@ -1,0 +1,6 @@
+---
+# The .gitpod.yml file configures the Gitpod environment,
+# dictating the setup of the cloud-based development environment.
+# This configuration ensures consistency and tailoring for each user.
+
+image: registry.gitlab.com/neosoft-group/practice/devops/public/hub/tools/gitpod/ubuntu:latest
